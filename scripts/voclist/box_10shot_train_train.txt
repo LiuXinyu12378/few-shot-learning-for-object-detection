@@ -1,0 +1,9 @@
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2009_002624.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2010_003788.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2010_003514.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2007/JPEGImages/001083.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2008_004110.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2008_006523.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2010_004604.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2010_002781.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2009_000501.jpg

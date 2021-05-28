@@ -1,0 +1,16 @@
+metayolo=1
+metain_type=2
+data=voc
+neg = 1
+rand = 0
+novel = data/voc_novels.txt
+novelid = 0
+steps=-1,64000
+scales=1,0.1
+learning_rate = 0.001
+meta = data/voc_traindict_full.txt
+train = /data/liuxy67/Few-shot-Object-Detection/scripts/train.txt
+valid = /data/liuxy67/Few-shot-Object-Detection/scripts/2007_test.txt
+backup = backup/metayolov3_voc
+gpus=0
+num_workers=4

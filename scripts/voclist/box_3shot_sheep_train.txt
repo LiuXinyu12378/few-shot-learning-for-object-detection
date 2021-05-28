@@ -1,0 +1,3 @@
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2010_000189.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2012/JPEGImages/2008_000084.jpg
+/data/liuxy67/Few-shot-Object-Detection/scripts/VOCdevkit/VOC2007/JPEGImages/002618.jpg
